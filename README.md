@@ -2,6 +2,8 @@
 <br>
 <br>
 
+![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
+
 ![Blog MgDev](https://github.com/martageraldo/Blogmg-dev-flex/blob/main/blog.jpg)
 
 
@@ -14,3 +16,5 @@
 [![Netlify Badge](https://img.shields.io/badge/netlify-%23000000.svg?style=social-square&logo=netlify&logoColor=#00C7B7)](https://martageraldo.netlify.app/)
 
 <br>
+
+![card Badge](https://img.shields.io/badge/License-MIT-blue.svg)
